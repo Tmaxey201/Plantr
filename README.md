@@ -20,7 +20,10 @@ https://productivityappunc.herokuapp.com/
 
     
 ## Description
-
+ 
+ My Personal contribution to this site was the the styling with TailwindCSS, the landing page using react intersectional observers, and the navbar components. This was my first time using TailwindCSS
+ 
+ <br>
 This is a productivity app that's aimed at not only helping you keep on track with your daily, weekly, and monthly tasks, but it is also an app designed to help plant trees in order to counteract the devastating damages done by global warming. We used MERN stack to sew this application together. 
 
 <br>
